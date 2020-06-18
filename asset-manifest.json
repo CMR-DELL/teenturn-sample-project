@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teenturn-sample-project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/teenturn-sample-project/static/js/main.48d99310.chunk.js",
+    "main.js.map": "/teenturn-sample-project/static/js/main.48d99310.chunk.js.map",
+    "runtime-main.js": "/teenturn-sample-project/static/js/runtime-main.5d5dee47.js",
+    "runtime-main.js.map": "/teenturn-sample-project/static/js/runtime-main.5d5dee47.js.map",
+    "static/js/2.bca02c52.chunk.js": "/teenturn-sample-project/static/js/2.bca02c52.chunk.js",
+    "static/js/2.bca02c52.chunk.js.map": "/teenturn-sample-project/static/js/2.bca02c52.chunk.js.map",
+    "index.html": "/teenturn-sample-project/index.html",
+    "precache-manifest.e26b420134b22faf406711c1bfd314f5.js": "/teenturn-sample-project/precache-manifest.e26b420134b22faf406711c1bfd314f5.js",
+    "service-worker.js": "/teenturn-sample-project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/teenturn-sample-project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bca02c52.chunk.js.LICENSE.txt": "/teenturn-sample-project/static/js/2.bca02c52.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/teenturn-sample-project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d5dee47.js",
+    "static/js/2.bca02c52.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.48d99310.chunk.js"
+  ]
+}
