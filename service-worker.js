@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teenturn-sample-project/precache-manifest.e26b420134b22faf406711c1bfd314f5.js"
+  "/teenturn-sample-project/precache-manifest.6015084056a94f563393a6d568597747.js"
 );
 
 self.addEventListener('message', (event) => {
